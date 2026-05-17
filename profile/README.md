@@ -1,5 +1,5 @@
 # Vently: Your personalized AI driven diary
-Vently is an Undergraduate Research and Development (URD) project at CMKL University, Thailand. Our team consists of five members and an advisor:
+An Undergraduate Research and Development (URD) project at CMKL University, Thailand. Our team consists of five members and an advisor:
 
 - Dr. Natnatee Dokmai (Aj. Ko), Advisor, natnatee@cmkl.ac.th
 - Mr. Suppakorn Krabtong (Tae), Technical Leader and Backend Developer, skrabto@cmkl.ac.th
